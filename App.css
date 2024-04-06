@@ -1,0 +1,248 @@
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-color: black;
+  
+  }
+  .container{
+    width: 550px;
+    height: 1200px;
+    position: relative;
+    background-color: white;
+    left: 30%;
+    box-shadow: -3px -3px 5px rgb(196, 126, 126) ,5px 5px 10px rgb(140, 104, 104);
+ 
+  }
+  .container h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  form{
+    margin-top: 5%;
+  }
+  .first{
+
+margin-left: 0.3%;
+
+  }
+  #firstname{
+    width: 400px;
+    padding: 10px;
+    margin-left: 3%;
+  }
+  #last{
+    position: absolute;
+    left: 0;
+    top: 11%;
+    padding-left: 2%;
+
+  }
+  #lastname{
+    width: 400px;
+    padding: 10px;
+    margin-left: 18%;
+   margin-top: 4%;
+  }
+  #email{
+    width: 400px;
+    padding: 10px;
+    margin-left: 18%;
+   margin-top: 4%;
+      
+    
+    }
+  .eml{
+    position: absolute;
+    left: 0;
+    top: 17%;
+    padding-left: 2%;
+
+  }
+  
+  #contact{
+    width: 400px;
+    padding: 10px;
+    margin-left: 18%;
+   margin-top: 4%;
+      
+    
+    }
+  .con{
+    position: absolute;
+    left: 0;
+    top: 21%;
+    padding-left: 2%;
+  }
+
+  .box{
+   
+   margin-left: 20%;
+    border: 2px solid black;
+    width: 300px;
+    height: 55px;
+    border: none;
+  }
+  #all-gender{
+    position: absolute;
+    top: 28%;
+    left: 20%;
+  }
+  #male{
+   position: absolute;
+   top: 32%;
+  }
+.male{
+  position: absolute;
+   top: 31.6%;
+   left: 25%;
+  }
+
+
+  #female{
+    position: absolute;
+    top: 32%;
+    left: 36%;
+  }
+  .female{
+    position: absolute;
+   top: 31.6%;
+   left: 40%;
+  }
+  #other{
+    position: absolute;
+    top: 32%;
+    left: 56%;
+  }
+  .other{
+    position: absolute;
+   top: 31.6%;
+   left: 60%;
+  }
+
+  .box2{
+   
+    margin-left: 20%;
+     border: 2px solid black;
+     width: 300px;
+     height: 70px;
+     border: none;
+     position: relative;
+     width: 400px;
+     height: 70px;
+    
+   }
+
+   #all-lang{
+   position:absolute;
+   top: 36%;
+   left: 10%;
+   }
+   #English{
+  position: absolute;
+  top: 40%;
+  left: 15%;
+   }
+.english{
+  position: absolute;
+  top:39.6%;
+  left: 20%;
+   }
+
+
+   #Physics{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+     }
+  .physics{
+    position: absolute;
+    top:39.6%;
+    left: 40%;
+    
+     }
+
+
+     
+  
+
+
+     
+   #Math{
+    position: absolute;
+    top: 40%;
+    left: 60%;
+     }
+  .math{
+    position: absolute;
+    top: 39.6%;
+    left: 64%;
+     }
+    .upload{
+     position: absolute;
+     top: 43%;
+     left: 5%;
+    }
+    #file{
+      width: 400px;
+      padding: 10px;
+      border: 1px solid black;
+      margin-top: 25%;
+      margin-left: 17%;
+    }
+    .url{
+      position: absolute;
+      top: 52%;
+     left: 10%;
+    }
+    #url{
+      width: 400px;
+      padding: 10px;
+      border: 1px solid black;
+      margin-top: 10%;
+      margin-left: 17%;
+    }
+    .select{
+      position: absolute;
+      top: 60%;
+      left: 5%;
+    }
+    #select{
+      width: 400px;
+      height: 30px;
+      border: 1px solid black;
+      margin: 14% 16%;
+    }
+    .about{
+      position:absolute;
+      top: 70%;
+      left: 4%;
+    }
+    #about{
+      margin: 3% 10%;
+    }
+    .btn1{
+      width: 120px;
+      padding: 10px;
+      background-color: rgb(26, 232, 26);
+      color: rgb(255, 252, 252);
+      position: absolute;
+      top: 90%;
+      left: 15%;
+    }
+    
+    .btn2{
+      width: 120px;
+      padding: 10px;
+      background-color: rgb(22, 234, 22);
+      color: rgb(255, 255, 255);
+      position: absolute;
+      top: 90%;
+      left: 40%;
+      
+    }
